@@ -1,0 +1,500 @@
+   94  chmod 400 something-simple-key.pem
+   95  ssh -i "something-simple-key.pem" ubuntu@ec2-18-188-124-134.us-east-2.compute.amazonaws.com
+   96  ssh -i "something-simple-key.pem" ubuntu@ec2-18-188-124-134.us-east-2.compute.amazonaws.com
+   97  ssh -i "jenkins3-master3_key.pem" ubuntu@ec2-3-137-97-56.us-east-2.compute.amazonaws.com
+   98  cat jenkins3-master3_key.pem
+   99  chmod 400 jenkins1-master1-key.pem
+  100  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-157-22-56.compute-1.amazonaws.com
+  101  clear
+  102  TERRAFORM-IN-THE-C-DRIVE --version
+  103  terraform.1.0.0 --version
+  104  tf1 --version
+  105  cd
+  106   tf1 --version
+  107   tf1 --version
+  108  terraform --version
+  109  terraform --version
+  110  terraform --version
+  111  terraform --version
+  112  terraform --version
+  113  terraform --version
+  114  terraform --version
+  115  terraform --version
+  116  terraform --version
+  117  terraform --version
+  118  terraform.1.2.6 --version
+  119  terraform.1.0.0 --version
+  120  terraform_1.0.0 --version
+  121  ls -a ~/.aws
+  122  chmod 400 jenkins1-master1-key.pem
+  123  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-3-95-241-91.compute-1.amazonaws.com
+  124  s5annie@server1.anomicatech.com
+  125  ssh-keygen -R server1.anomicatech.com
+  126  ssh-keygen -R server2.anomicatech.com
+  127  ssh-keygen -R server3.anomicatech.com
+  128  s5annie@server1.anomicatech.com
+  129  cat /etc/shells
+  130  ls
+  131  cat /etc/shells
+  132  ping
+  133  ping google.com
+  134  hotname
+  135  hostname
+  136  id
+  137  ip
+  138  ip a
+  139  ssh-heygen -R server1.anomicatech.com
+  140  ssh-heygen -R server2.anomicatech.com
+  141  ssh-heygen -R server3.anomicatech.com
+  142  s5annie@anomicatech.com
+  143  chmod 400 "Mumbai.pem"
+  144  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-201-105.compute-1.amazonaws.com
+  145  chmod 400 "Mumbai.pem"
+  146  chmod 400 "Mumbai.pem"
+  147  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-201-105.compute-1.amazonaws.com
+  148  [200~/opt/sonar-scanner
+  149  where sonar-scanner
+  150  dir C:\sonar-scanner /s /b
+  151  dir "C:\Program Files\SonarQube\sonar-scanner" /s /b
+  152  echo %PATH%
+  153  chmod 400 "Mumbai.pem"
+  154  ssh -i "Mumbai.pem" ubuntu@ec2-3-232-89-221.compute-1.amazonaws.com
+  155  chmod 400 "Mumbai.pem"
+  156  ssh -i "Mumbai.pem" ubuntu@ec2-3-232-89-221.compute-1.amazonaws.com
+  157  chmod 400 "Mumbai.pem"
+  158  ssh -i "Mumbai.pem" ubuntu@ec2-35-175-128-23.compute-1.amazonaws.com
+  159  chmod 400 "Mumbai.pem"
+  160  ssh -i "Mumbai.pem" ubuntu@ec2-52-3-205-235.compute-1.amazonaws.com
+  161  chmod 400 "Mumbai.pem"
+  162  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-33-159.compute-1.amazonaws.com
+  163  ssh s5annie@anomicatech.com
+  164  cd Downloads/
+  165  cd /tmp/workspace
+  166  aws configure
+  167  aws service-quotas list-services --region us-east-1
+  168  aws configure
+  169  aws service-quotas list-services --region us-east-1
+  170  aws configure
+  171  aws service-quotas list-services --region us-east-1
+  172  aws service-quotas list-services
+  173  chmod 400 "Linux-VM-Key7.pem"
+  174  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-100-25-192-158.compute-1.amazonaws.com
+  175  git clone https://github.com/bettysami/a-youtube-clone-app.git
+  176  ls
+  177  ls -la
+  178  cd a-youtube-clone-app/
+  179  pwd
+  180  ls
+  181  vim README.md 
+  182  git add .
+  183  git commit -m "modified README.md file"
+  184  git push origin main
+  185  git config --global credential.helper store
+  186  git config --global user.name "bettysami"
+  187  git config --global credential.helper store
+  188  git push origin main
+  189  git credential reject
+  190  git credential reject github.com
+  191  git push origin main
+  192  git config --global --list
+  193  git credential reject
+  194  git config --global user.email "bettysami2024@gmail.com"
+  195  git config --global --list
+  196  git push origin main
+  197  git config --global user.name "bettysami"
+  198  git config --global user.email "bettysami2024@gmail.com"
+  199  git config --global --list
+  200  git push origin main
+  201  git remote -v
+  202  git credential-cache exit
+  203  git push origin main
+  204  git config --global --unset credential.helper
+  205  git push origin main
+  206  git init
+  207  git push origin main
+  208  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  209  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  210  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  211  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  212  cat (/c/Users/13477/.ssh/id_rsa)
+  213  cat /c/Users/13477/.ssh/id_rsa
+  214  eval "$(ssh-agent -s)"
+  215  ssh-add ~/.ssh/id_rsa
+  216  cat ~/.ssh/id_rsa.pub
+  217  ls ~/ .ssh/
+  218  git remote -v
+  219  git remote set-url origin git@github.com:bettysami/a-youtube-clone-app.git
+  220  git push origin main
+  221  clear
+  222  cd src/
+  223  ls
+  224  cd components/
+  225  ls
+  226  vim Sidebar.jsx 
+  227  git add .
+  228  git commit -m "modified the Sidebar.jsx file, changed color from blue to red"
+  229  git push origin main
+  230  chmod 400 "Linux-VM-Key7.pem"
+  231  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-35-153-93-25.compute-1.amazonaws.com
+  232  chmod 400 "Linux-VM-Key7.pem"
+  233  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-162-104-9.compute-1.amazonaws.com
+  234  cd Downloads
+  235  cd Downloads/
+  236  ls -la
+  237  ls
+  238  cd ~
+  239  ls
+  240  ls -la
+  241  cd /Downloads
+  242  cd Downloads/
+  243  chmod 400 "Linux-VM-Key7.pem"
+  244  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-89-58-209.compute-1.amazonaws.com
+  245  chmod 400 "Linux-VM-Key7.pem"
+  246  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-144-240-75.compute-1.amazonaws.com
+  247  sudo systemctl status prometheus
+  248  chmod 400 "Linux-VM-Key7.pem"
+  249  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-144-240-75.compute-1.amazonaws.com
+  250  chmod 400 "Linux-VM-Key7.pem"
+  251  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-35-175-105-209.compute-1.amazonaws.com
+  252  aws --version
+  253  aws configure
+  254  iam users
+  255  aws iam users
+  256  aws iam list-users
+  257  aws iam list-users                               | list-virtual-mfa-devices            
+  258  aws configure list
+  259  aws iam list-users
+  260  aws iam list-users --debug
+  261  aws iam list-users
+  262  aws iam list-users
+  263  aws iam list-users
+  264  aws iam list-users
+  265  aws iam list-users
+  266  pip install --upgrade awscli
+  267  aws iam list-users
+  268  aws iam list-virtual-mfa-devices
+  269  aws configure --profile admin-test
+  270  aws iam list-users
+  271  aws s3 ls --profile admin-test
+  272  aws configure list
+  273  pip install --upgrade awscli
+  274  aws configure list
+  275  pip uninstall awscli
+  276  pip install awscli
+  277  aws --version
+  278  aws configure
+  279  aws iam list-users
+  280  docker-compose --version
+  281  echo $PATH
+  282  docker-compose --version
+  283  ls /c/Program\ Files/Docker/Docker/resources/bin
+  284  echo $PATH
+  285  source ~/.bashrc
+  286  docker-compose --version
+  287  docker --version
+  288  docker-compose --version
+  289  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker.exe /usr/local/bin/docker
+  290  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker-compose.exe /usr/local/bin/docker-compose
+  291  mkdir -p /usr/local/bin
+  292  mkdir -p ~/bin
+  293  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker.exe ~/bin/docker
+  294  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker-compose.exe ~/bin/docker-compose
+  295  notepad ~/.bashrc
+  296  source ~/.bashrc
+  297  docker --version
+  298  docker-compose --version
+  299  code ~/.bashrc
+  300  chmod 400 "admin_test_key_pair.pem"
+  301  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  302  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  303  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  304  chmod 400 "admin_test_key_pair.pem"
+  305  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  306  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  307  chmod 400 "admin_test_key_pair.pem"
+  308  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  309  chmod 400 "admin_test_key_pair.pem"
+  310  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  311  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  312  chmod 400 "admin_test_key_pair.pem"
+  313  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  314  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  315  chmod 400 "admin_test_key_pair.pem"
+  316  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-234-2-163.compute-1.amazonaws.com
+  317  chmod 400 "admin_test_key_pair.pem"
+  318  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  319  chmod 400 "admin_test_key_pair.pem"
+  320  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  321  chmod 400 "admin_test_key_pair.pem"
+  322  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  323  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  324  exit
+  325  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  326  exit
+  327  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  328  exit
+  329  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  330  exit
+  331  chmod 400 "admin_test_key_pair.pem"
+  332  ec2-3-90-252-148.compute-1.amazonaws.com
+  333  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-90-252-148.compute-1.amazonaws.com
+  334  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  335  exit
+  336  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  337  exit
+  338  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  339  exit
+  340  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  341  exit
+  342  chmod 400 "admin_test_key_pair.pem"
+  343  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-87-239-172.compute-1.amazonaws.com
+  344  chmod 400 "admin_test_key_pair.pem"
+  345  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-90-239-156.compute-1.amazonaws.com
+  346  chmod 400 "admin_test_key_pair.pem"
+  347  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-52-5-61-3.compute-1.amazonaws.com
+  348  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  349  exit
+  350  chmod 400 "admin_test_key_pair.pem"
+  351  [200~ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com~
+  352  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  353  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  354  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  355  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  356  chmod 400 "admin_test_key_pair.pem"
+  357  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-100-25-136-131.compute-1.amazonaws.com
+  358  chmod 400 "admin_test_key_pair.pem"
+  359  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-207-207-104.compute-1.amazonaws.com
+  360  chmod 400 "admin_test_key_pair.pem"
+  361  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-52-91-124-54.compute-1.amazonaws.com
+  362  wq
+  363  9;5uwq
+  364  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  365  exit
+  366  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  367  exit
+  368  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  369  exit
+  370  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  371  exit
+  372  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  373  exit
+  374  jenkins
+  375  sudo service jenkins start
+  376  cd "C:\Program Files (x86)\Jenkins"
+  377  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  378  exit
+  379  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  380  exit
+  381  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  382  exit
+  383  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  384  exit
+  385  chmod 400 "admin_test_key_pair.pem"
+  386  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-205-191-164.compute-1.amazonaws.com
+  387  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  388  exit
+  389  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  390  exit
+  391  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  392  exit
+  393  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  394  exit
+  395  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  396  exit
+  397  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  398  exit
+  399  chmod 400 "admin_test_key_pair.pem"
+  400  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-162-88-233.compute-1.amazonaws.com
+  401  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  402  exit
+  403  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  404  exit
+  405  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  406  exit
+  407  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  408  exit
+  409  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  410  exit
+  411  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  412  exit
+  413  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  414  exit
+  415  chmod 400 "admin_test_key_pair.pem"
+  416  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-162-88-233.compute-1.amazonaws.com
+  417  chmod 400 "admin_test_key_pair.pem"
+  418  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-100-25-131-152.compute-1.amazonaws.com
+  419  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  420  exit
+  421  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  422  exit
+  423  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  424  exit
+  425  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  426  exit
+  427  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  428  exit
+  429  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  430  exit
+  431  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  432  exit
+  433  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  434  exit
+  435  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  436  exit
+  437  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  438  exit
+  439  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  440  exit
+  441  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  442  exit
+  443  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  444  exit
+  445  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  446  exit
+  447  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  448  exit
+  449  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  450  exit
+  451  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  452  exit
+  453  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  454  exit
+  455  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  456  exit
+  457  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  458  exit
+  459  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  460  exit
+  461  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  462  exit
+  463  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  464  exit
+  465  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  466  exit
+  467  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  468  exit
+  469  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  470  exit
+  471  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  472  exit
+  473  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  474  exit
+  475  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  476  exit
+  477  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  478  exit
+  479  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  480  exit
+  481  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  482  exit
+  483  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  484  exit
+  485  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  486  exit
+  487  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  488  exit
+  489  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  490  exit
+  491  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  492  exit
+  493  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  494  exit
+  495  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  496  exit
+  497  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  498  exit
+  499  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  500  exit
+  501  terraform init
+  502  terraform plan
+  503  ls
+  504  cd eks-ec2-instance-setup/
+  505  terraform init
+  506  touch update_gitignore.sh
+  507  vim 
+  508  vim update_gitignore.sh 
+  509  chmod +x update_gitignore.sh
+  510  ./update_gitignore.sh
+  511  terraform plan
+  512  terraform init
+  513  ./update_gitignore.sh
+  514  terrafrom plan
+  515  terraform plan
+  516  terraform apply
+  517  ssh -i "C:/Users/13477/Downloads/admin_test_key_pair.pem" ubuntu@54.234.226.52
+  518  terraform destroy
+  519  terraform init
+  520  terraform plan
+  521  terraform apply
+  522  ssh -i "C:/Users/13477/Downloads/admin_test_key_pair.pem" ubuntu@52.207.82.82
+  523  terraform destro
+  524  terraform destroy
+  525  terraform init
+  526  terraform plan
+  527  terraform apply
+  528  ssh -i "C:/Users/13477/Downloads/admin_test_key_pair.pem" ubuntu@54.163.8.111
+  529  touch setup_terraform.sh
+  530  vim setup_terraform.sh
+  531  chmod +x setup_terraform.sh
+  532  bash push_changes.sh "installed terraform on ec2-instance-setup"
+  533  ls
+  534  cat push_changes.sh 
+  535  chmod +x push_changes.sh 
+  536  bash push_changes.sh -"added changes"
+  537  git add .
+  538  cd
+  539  cd C:\ALL PROJECTS\EKS-CLUSTER\terraform-eks
+  540  cd "C:\ALL PROJECTS\EKS-CLUSTER\terraform-eks"
+  541  bash push_changes.sh -"added changes"
+  542  cd "C:\ALL PROJECTS\EKS-CLUSTER\eks-ec2-instance-setup"
+  543  ls
+  544  rm -rf push_changes.sh 
+  545  touch push_changes.sh
+  546  vim push_changes.sh 
+  547  chmod +x push_changes.sh 
+  548  bash push_changes.sh "added changes"
+  549  bash push_changes.sh "added changes"
+  550  git init
+  551  git remote add origin <remote_repository_URL>
+  552  git remote add origin https://github.com/la-belle-femme/terraform-eks
+  553  bash push_changes.sh "added changes"
+  554  cat push_changes.sh 
+  555  vim push_changes.sh 
+  556  chmod +x push_changes.sh 
+  557  bash push_changes.sh "added changes"
+  558  git pull origin main
+  559  git pull origin main --allow-unrelated-histories
+  560  git fetch origin main
+  561  git diff origin/main
+  562  vim .gitignore 
+  563  cat .gitignore 
+  564  vim .gitignore 
+  565  git add .gitignore
+  566  git commit -m "Resolved merge conflict in .gitignore"
+  567  git push origin main
+  568  git branch
+  569  git push origin master
+  570  git push origin main
+  571  git branch
+  572  ssh -i "C:/Users/13477/Downloads/admin_test_key_pair.pem" ubuntu@54.163.8.111
+  573  cd "C:\ALL PROJECTS\EKS-CLUSTER\eks-ec2-instance-setup"
+  574  touch install_docker.sh
+  575  vim install_docker.sh
+  576  chmod +x install_docker.sh
+  577  ./install_docker.sh
+  578  docker --version
+  579  history
+  580  git pull origin main
+  581  git pull origin main --allow-unrelated-histories
+  582  bash push_changes.sh "added changes"
+  583  ssh -i "C:/Users/13477/Downloads/admin_test_key_pair.pem" ubuntu@54.163.8.111
+  584  terraform destroy
+  585  pwd
+  586  ls
+  587  terraform destroy
+  588  terraform destroy
+  589  terraform init
+  590  terraform init -upgrade
+  591  terraform apply
+  592  history
+  593  history > command_history.txt
